@@ -2,3 +2,6 @@ Nome: Felipe Orige Eugênio
 Endereço: Rua Angelo Pizoni
 Profissão: Auxiliar de TI
 Empresa: ZAVEL MOTORS
+CEP: 88817-315
+Bairro: Vila Floresta I
+Municipio: Rio Maina
